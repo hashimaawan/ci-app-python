@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE_NAME: yourdockerhubusername/python-ci-app  # Replace with your Docker Hub username
+  IMAGE_NAME: hashimawan/python-ci-app  
 
 jobs:
   lint:
